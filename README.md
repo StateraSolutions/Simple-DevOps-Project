@@ -1,6 +1,7 @@
 # Simple DevOps Project
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FStateraSolutions%2FSimple-DevOps-Project.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FStateraSolutions%2FSimple-DevOps-Project?ref=badge_shield)
+
 
 This Repository is a collection of Implementation documents. 
 
@@ -13,3 +14,7 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Docker &
 - Kubernetes
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FStateraSolutions%2FSimple-DevOps-Project.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FStateraSolutions%2FSimple-DevOps-Project?ref=badge_large)
